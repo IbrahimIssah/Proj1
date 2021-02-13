@@ -1,0 +1,38 @@
+.pe{color:white;
+height: 24px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+text-decoration: none;}
+
+li{text-transform: capitalize;
+font-weight: bolder;
+
+
+}
+
+.pr{cursor: pointer;}
+.pr:hover{color:black;
+font-weight: bolder;}
+
+.mainflame{border: 2px solid black;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.788);
+}
+
+.mainHeader{border: 2px solid blue;
+  position: fixed;
+  
+  
+ width: 100%;
+ height: 4%;
+ top: 0;
+ background-color:White;
+ align-items: center;
+}
+
+
+
+.body{border: 2px solid yellow;
+height: 100%;
+margin-top: 27px;}

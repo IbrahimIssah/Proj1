@@ -1,0 +1,13 @@
+.app{background-color: gray;
+    display: grid;
+    place-items:center ;
+height: 100vh;
+}
+
+.appBody{display: flex;
+    background-color: honeydew;
+    height: 90vh;
+    width: 90vw;
+    margin-top: -50px;
+
+}

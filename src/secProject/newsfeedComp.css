@@ -1,0 +1,31 @@
+.newsp{border: 2px solid White;
+    color: chartreuse;
+   display: flex;
+   flex-direction: column;
+   align-items: baseline;
+   padding-bottom: 50px;
+}
+
+.newsp:hover{background-color: black;}
+
+.newp{cursor: pointer;
+color: white;
+padding-left: 50%;}
+
+.newp:hover{color: blue;}
+span{ padding-left: 7px;
+    color:White;
+}
+.likes{color:yellow;
+left: 0;}
+.quers{color: red;}
+h5{ padding-left: 7px;
+cursor: pointer;}
+.newsp:hover>h5{color: grey;}
+.comments{cursor: pointer;}
+.cmt{color: white; background-color:grey;
+    border-radius: 15px;
+    font-weight: lighter;
+border-bottom: 2px solid black;
+padding: 10px;
+}

@@ -1,0 +1,25 @@
+ 
+.secondfooter{display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 62px;
+    background-color:none;
+    border-top: 1px soli dark grey;
+    flex: 1;
+    
+   
+}    
+
+.form1{flex: 1;
+    display: flex;}
+    
+.inputt{flex: 1;
+    word-wrap: break-word;
+    
+        border:none;
+        
+    border-radius: 30px;
+    padding: 10px;
+    
+    }
+    

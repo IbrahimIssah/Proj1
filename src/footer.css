@@ -1,0 +1,43 @@
+.chatFooteh{display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 62px;
+    border-top: 1px soli dark grey;
+  
+}    
+
+.chatFoote{
+display: flex;
+justify-content: space-between;
+align-items: center;
+ 
+    background-color:gold;
+    transform: translateY(-50rem);
+    height:62px;
+flex: 1;
+margin-bottom: -62px;
+    
+ 
+}
+
+.input{flex: 1;
+    word-wrap: break-word;
+    
+        border:none;
+        
+    border-radius: 30px;
+    padding: 10px;
+    
+    }
+    
+.chatFoote.open{
+    transform:translateY(0);
+    background-color:gold;
+    
+    
+} 
+
+.form1{flex: 1;
+    display: flex;}
+    
+.input{word-wrap: break-word;}

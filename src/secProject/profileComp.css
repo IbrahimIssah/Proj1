@@ -1,0 +1,32 @@
+.profileHd{border: none;
+background-color:grey;
+position: sticky;
+width: 100%;
+top: 0;
+display: flex;
+justify-content: space-around;
+align-items: center;
+z-index: 2;
+}
+.profbody{border: none;
+height: 100vh;
+margin-top: 
+60px;
+}
+
+.prof{height: 100%;
+border: 2px solid grey;
+}
+
+.avar{font-weight:200px;
+font-size: 60%;
+background-color: blue;}
+
+.avatar{border-bottom: 1px solid grey;
+border-top: 1px  grey;}
+
+.foll{cursor: pointer;}
+.foll:hover{color: blue;}
+.divt{display: flex;
+justify-content: space-around;
+background-color: rgba(128, 128, 128, 0.39);}
