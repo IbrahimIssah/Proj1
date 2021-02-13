@@ -2,7 +2,7 @@ export const initialState={user:null,};
 
 export const actionTypes={
     SET_USER:"SET_USER",
-    SET:"SET"
+    SETUSER:"SETUSER"
 };
 const reducer=(state,action)=>{
     console.log(action);
