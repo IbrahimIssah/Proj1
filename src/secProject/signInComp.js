@@ -132,7 +132,7 @@ const signin=async()=>{
         db.collection('bios').doc(userName.user.uid).set(
             {name:'Botwe',
             //email:email
-            weather:'Cloudy'
+            weather:'Cloud'
 
 
             })}
